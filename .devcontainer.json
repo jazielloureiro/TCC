@@ -1,0 +1,19 @@
+{
+  "image": "texlive/texlive",
+  "name": "LaTeX",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "James-Yu.latex-workshop",
+        "ltex-plus.vscode-ltex-plus"
+      ],
+      "settings": {
+        "editor.wordWrap": "on",
+        "files.eol": "\n",
+	      "latex-workshop.latex.autoBuild.run": "onSave",
+        "latex-workshop.latex.outDir": "%WORKSPACE_FOLDER%/out",
+	      "ltex.language": "pt-BR"
+      }
+    }
+  }
+}
