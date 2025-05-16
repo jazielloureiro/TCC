@@ -10,9 +10,9 @@
       "settings": {
         "editor.wordWrap": "on",
         "files.eol": "\n",
-	      "latex-workshop.latex.autoBuild.run": "onSave",
+        "latex-workshop.latex.autoBuild.run": "onSave",
         "latex-workshop.latex.outDir": "%WORKSPACE_FOLDER%/out",
-	      "ltex.language": "pt-BR"
+        "ltex.language": "pt-BR"
       }
     }
   }
